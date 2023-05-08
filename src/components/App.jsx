@@ -3,7 +3,7 @@ import Section from './Section/Section';
 import Statistics from './Statistics/Statistics';
 import ButtonFeedback from './ButtonFeeedback/ButtonFeedback';
 import Notification from './Notification/Notification';
-import { render } from '@testing-library/react';
+
 
 
 
